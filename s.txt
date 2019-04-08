@@ -1,0 +1,4 @@
+
+sudo apt-get install esl-erlang
+sudo apt-get install xdotool
+sudo apt-get install grabc
